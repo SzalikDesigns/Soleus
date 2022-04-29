@@ -3,9 +3,8 @@
 
 Is a fork dedicated only for [AmberELEC](https://AmberELEC.org)
 
-![1](https://user-images.githubusercontent.com/77732736/162329767-8944b700-1135-49e4-a512-170feba7a79a.png)
-![2](https://user-images.githubusercontent.com/77732736/162329777-3a6f3b2b-3059-4bbf-8ecc-94adf9fd8d6b.jpg)
-
+![1](https://user-images.githubusercontent.com/77732736/165990911-72a94792-7c26-4a0f-8b06-2fe7106a7ec9.png)
+![2](https://user-images.githubusercontent.com/77732736/165990916-fb4dc323-c916-4c00-8dad-39954d09e455.png)
 
 --------------------------------------------------------------------
 
